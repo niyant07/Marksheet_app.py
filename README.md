@@ -1,0 +1,1 @@
+Student Marksheet Generator - Enter marks for 4 subjects (0-100), click Submit. Pass requires 33+ in each. Grades: A+(80+), B+(60-79), C+(40-59). Shows total, percentage, grade with success/error messages and professional styling using columns, metrics, emojis.
